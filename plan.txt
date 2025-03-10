@@ -1,0 +1,21 @@
+### Plan:
+
+1. **Modify `simple_test.py`**:
+   - Update the label encoding logic to check for new categories in the categorical columns (`merchant`, `category`, `gender`, `job`).
+   - Assign default labels for any new categories detected during the prediction process.
+
+2. **Update `save_encoders.py`**:
+   - Ensure that the label encoders can handle new categories by fitting them on the complete dataset.
+   - Implement logic to assign default labels for any unseen categories when encoding.
+
+3. **Revise `interface.py`**:
+   - Confirm that the fraud detection function correctly handles new categories and assigns default labels.
+   - Ensure that the prediction results are clearly communicated to the user.
+
+4. **Adjust `three_models.py`**:
+   - Update the encoding logic to handle new categories during model training.
+   - Ensure that the models are trained with the correct handling of new categories.
+
+### Follow-up Steps:
+- After implementing the changes, test the application to ensure that it correctly handles new categories and provides accurate predictions.
+- Verify that the user interface reflects any changes made to the prediction logic.

@@ -1,0 +1,4 @@
+﻿Unnamed: 0,trans_date_trans_time,cc_num,merchant,category,amt,first,last,gender,street,city,state,zip,lat,long,city_pop,job,dob,trans_num,unix_time,merch_lat,merch_long,is_fraud
+467309,25-07-2019 07:07,213173753804333,fraud_McDermott-Weimann,grocery_pos,341.13,Joseph,Wagner,M,822 Austin Spur,North Judson,IN,46366,41.2244,-86.6966,5791,"Doctor, general practice",07-10-1959,dc72c7737c3c2a1125c0b3d386ac5a33,1343200062,41.273293,-86.087496,1
+33519,20-01-2019 22:45,340951438290556,"fraud_Witting, Beer and Ernser",home,275.71,Maria,Garcia,F,865 Thomas Village,Orangeburg,NY,10962,41.0442,-73.9609,5950,Records manager,02-07-1971,6d85e286aeb0bfd2a569f552db2e76bc,1327099551,41.36496,-73.619872,1
+262687,11-05-2019 02:24,36192615525683,fraud_Wolf Inc,grocery_pos,338.29,Susan,Garcia,F,582 Rodriguez Wells,Albuquerque,NM,87109,35.1506,-106.569,641349,Civil Service administrator,11-04-1976,0ba3eb1b0e7ebabbc53a49de18dbfef6,1336703076,35.067209000000005,-105.966085,1

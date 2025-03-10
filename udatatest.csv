@@ -1,0 +1,2 @@
+Unnamed: 0,trans_date_trans_time,cc_num,merchant,category,amt,first,last,gender,street,city,state,zip,lat,long,city_pop,job,dob,trans_num,unix_time,merch_lat,merch_long,is_fraud
+1239072,01-06-2020 01:01,565399283797,fraud_Koepp-Witting,grocery_pos,312.81,Anthony,Allen,M,6993 Carr Lodge Apt. 311,Jordan Valley,OR,97910,42.8801,-117.281,641,Economist,24-11-1993,c48f2efccb689f2daef9ebdb03e1edec,1370048481,42.663612,-117.720784,1

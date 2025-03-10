@@ -1,0 +1,3 @@
+Unnamed: 0,trans_date_trans_time,cc_num,merchant,category,amt,first,last,gender,street,city,state,zip,lat,long,city_pop,job,dob,trans_num,unix_time,merch_lat,merch_long,is_fraud
+1176127,05-05-2020 18:20,5559857416065248,fraud_Larkin Ltd,kids_pets,57.48,Jack,Hill,M,5916 Susan Bridge Apt. 939,Grenada,CA,96038,41.6125,-122.5258,589,Systems analyst,21-12-1945,fca3cc82e6d8522f812320e0d9a42519,1367778046,41.230218,-122.841037,0
+,,,,,,,,,,,,,,,,,,,,,,

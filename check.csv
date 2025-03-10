@@ -1,0 +1,2 @@
+Unnamed: 0,trans_date_trans_time,cc_num,merchant,category,amt,first,last,gender,street,city,state,zip,lat,long,city_pop,job,dob,trans_num,unix_time,merch_lat,merch_long,is_fraud
+unknown,unknown,unknown,fraud_Koepp-Witting,grocery_pos,312.81,unknown,unknown,M,unknown,unknown,unknown,unknown,42.8801,-117.281,641.0,Economist,unknown,unknown,1370048481.0,42.663612,-117.720784,unknown
